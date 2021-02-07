@@ -1,3 +1,7 @@
+.logo-studio-white {
+  color: var(--white-text-color);
+}
+
 .hero {
   background-color: var(--background-hero-footer);
 }

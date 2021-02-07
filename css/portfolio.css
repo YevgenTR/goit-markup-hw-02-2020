@@ -2,6 +2,10 @@
   border-bottom: 1px solid var(--header-border-line);
 }
 
+.logo-studio-white {
+  color: var(--white-text-color);
+}
+
 .project-list {
   background: var(background-project-list);
   border: 1px solid var(--border-project-list);
