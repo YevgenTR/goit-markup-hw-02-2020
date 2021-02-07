@@ -2,10 +2,6 @@
   border-bottom: 1px solid var(--header-border-line);
 }
 
-.nav-menu.current {
-  color: var(--select-color);
-}
-
 .project-list {
   background: var(background-project-list);
   border: 1px solid var(--border-project-list);

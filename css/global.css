@@ -79,6 +79,9 @@ a {
   color: var(--black-text-color);
 }
 
+.nav-menu.current {
+  color: var(--select-color);
+}
 
 .nav-menu:hover,
 .nav-menu:focus,
