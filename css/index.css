@@ -1,3 +1,7 @@
+.nav-menu.current {
+  color: var(--select-color);
+}
+
 .logo-studio-white {
   color: var(--white-text-color);
 }
