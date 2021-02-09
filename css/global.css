@@ -54,7 +54,7 @@ a {
 .logo-web {
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--select-color);
 }
@@ -62,7 +62,7 @@ a {
 .logo-studio-black {
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.19;
   letter-spacing: 0.03em;
   color: var(--black-text-color);
 }
@@ -70,7 +70,7 @@ a {
 .nav-menu {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--black-text-color);
 }
@@ -85,7 +85,7 @@ a {
 .nav-contacts {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--gray-text-color);
 }
@@ -98,7 +98,7 @@ a {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--white-text-color);
 }
@@ -109,7 +109,7 @@ a {
   font-weight: normal;
   font-style: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--footer-mail-phone);
 }
